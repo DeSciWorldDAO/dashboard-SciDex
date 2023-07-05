@@ -1,1 +1,29 @@
+{"name":"SciDex",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"SciDex is a Full Stack On-Chain Peer Review System that empowers DeSci and domain-expert DAOs to launch their peer-reviewed academic journals effortlessly. With SciDex, authors can confidently submit manuscripts for peer review, ensuring qualified reviewers while maintaining their anonymity. Smart contracts handle decentralized payments and bounties, guaranteeing fair compensation for reviewers.",
+"whitePaperLink":"https://github.com/haailabs/SciDex",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://pbs.twimg.com/media/FyMZ8juaUAYcpDQ.png",
+       "source": "image",
+       "link": "https://github.com/haailabs/SciDex"
+   }
+],
+"deleted":false,
+"primaryColor":"#1aebf9",
+"twitterHandle":"getSciDex",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://pbs.twimg.com/profile_images/1667213835105865728/R-VC5wqs_400x400.jpg",
+"telegramLink":"https://telegram.me/scidexchat",
+"discordLink":"",
+"website":"https://haai.info/scidex/",
+"tokenDescription":"",
+"tokenTradeLink":"",
 
+"tags":["Publishing", "Science DeFi", "Blockchain protocols"]
+  
+}
